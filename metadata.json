@@ -1,0 +1,6 @@
+{
+  "name": "Kit Digital de Alfabetização Infantil",
+  "description": "Landing page de alta conversão para kit digital de alfabetização infantil (atividades em PDF para crianças de 4 a 8 anos).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
